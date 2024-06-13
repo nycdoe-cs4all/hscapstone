@@ -9,6 +9,7 @@
 * [📅 Pacing Calendar](curriculum-map/pacing-calendar/README.md)
   * [Weekly Plans](curriculum-map/pacing-calendar/weekly-plans.md)
 * [🤔 Project Mode Philosophy](curriculum-map/project-mode-philosophy.md)
+* [🖋️ Grading Best Practices](curriculum-map/grading-best-practices.md)
 * [Unit 0: Get the Git](curriculum-map/unit-0-get-the-git.md)
 * [Project 1: Web Application](curriculum-map/project-1-web-application.md)
 * [Project 2: Data Focused Piece](curriculum-map/project-2-data-focused-piece.md)
