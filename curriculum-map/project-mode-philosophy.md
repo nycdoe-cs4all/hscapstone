@@ -2,7 +2,7 @@
 description: This philosophy is mirrored in our Interactive Web and ICM curriculums.
 ---
 
-# Project Mode Philosophy
+# 🤔 Project Mode Philosophy
 
 Project mode can be incredibly powerful, but only when it's treated with the care and attention it deserves. We’ve centered this course around these beliefs:
 
