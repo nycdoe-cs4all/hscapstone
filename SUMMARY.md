@@ -10,6 +10,7 @@
   * [Weekly Plans](curriculum-map/pacing-calendar/weekly-plans.md)
 * [🤔 Project Mode Philosophy](curriculum-map/project-mode-philosophy.md)
 * [🖋️ Grading Best Practices](curriculum-map/grading-best-practices.md)
+* [☀️ Guidance for End of Course Buffer Time](curriculum-map/guidance-for-end-of-course-buffer-time.md)
 * [Unit 0: Get the Git](curriculum-map/unit-0-get-the-git.md)
 * [Project 1: Web Application](curriculum-map/project-1-web-application.md)
 * [Project 2: Data Focused Piece](curriculum-map/project-2-data-focused-piece.md)
