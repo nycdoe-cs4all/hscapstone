@@ -29,6 +29,14 @@ Students will be able to:
 
 ### Vocabulary
 
+* **Markdown**: A lightweight markup language with plain text formatting syntax designed to be easy to read and write. It is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+* **Markup Language:** A system for annotating a document in a way that is syntactically distinguishable from the text. Examples include HTML, XML, and Markdown.
+* **Syntax**: The set of rules that defines the combinations of symbols that are considered to be correctly structured documents or fragments in that language.
+  * _Common syntax students will utilize in Markdown will be headings, bold, italics, block quotes, lists, links, images, horizontal rules, codeblocks, and inline code._
+* **Plain Text**: Text that contains no formatting, such as bold, italics, or links. Plain text is the opposite of rich text, which can include formatting.
+* **Formatting**: The way in which text is arranged and styled, such as bold, italic, headings, lists, etc.
+* **Readme File:** A text file containing information about other files in a directory or archive. Readme files are often written in Markdown.
+
 ### Assessments
 
 **Formative:**
