@@ -1,3 +1,7 @@
+---
+description: How can I utilize Markdown in project documentation?
+---
+
 # Lesson 3: Introduction to Markdown
 
 ### Overview
