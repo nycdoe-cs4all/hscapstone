@@ -20,7 +20,7 @@
 
 ## Curriculum Materials
 
-* [Protocols Guide](curriculum-materials/protocols-guide/README.md)
+* [Protocols Guide](curriculum-materials/protocols.md)
   * [Project Launch Protocols](curriculum-materials/protocols-guide/project-launch-protocols.md)
   * [Project Mode Protocols](curriculum-materials/protocols-guide/project-mode-protocols.md)
 * [Design Journals](curriculum-materials/design-journals.md)
