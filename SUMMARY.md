@@ -22,7 +22,9 @@
 
 * [Protocols](curriculum-materials/protocols.md)
 * [Design Journals](curriculum-materials/design-journals.md)
-* [Learning Plan Guide](curriculum-materials/learning-plan-guide.md)
+* [Learning Plans Teacher Guide](curriculum-materials/learning-plans-teacher-guide/README.md)
+  * [Sample Learning Plan Template](curriculum-materials/learning-plans-teacher-guide/sample-learning-plan-template.md)
+  * [Sample Next Steps](curriculum-materials/learning-plans-teacher-guide/sample-next-steps.md)
 
 ## Unit 0: Get the Git
 
