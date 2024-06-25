@@ -20,7 +20,9 @@
 
 ## Curriculum Materials
 
-* [Protocols](curriculum-materials/protocols.md)
+* [Protocols Guide](curriculum-materials/protocols-guide/README.md)
+  * [Project Launch Protocols](curriculum-materials/protocols-guide/project-launch-protocols.md)
+  * [Project Mode Protocols](curriculum-materials/protocols-guide/project-mode-protocols.md)
 * [Design Journals](curriculum-materials/design-journals.md)
 * [Learning Plans Teacher Guide](curriculum-materials/learning-plans-teacher-guide/README.md)
   * [Sample Learning Plan Template](curriculum-materials/learning-plans-teacher-guide/sample-learning-plan-template.md)
